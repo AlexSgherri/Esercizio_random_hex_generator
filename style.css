@@ -10,39 +10,41 @@ body {
   width: 50%;
   height: 50%;
 }
-.container .col:nth-child(0) {
-  background: rgb(253, 255, 195);
-}
 .container .col:nth-child(1) {
-  background: rgb(31, 73, 45);
+  background-color: #6A2575;
 }
 .container .col:nth-child(2) {
-  background: rgb(251, 95, 155);
+  background-color: #2F35B1;
 }
 .container .col:nth-child(3) {
-  background: rgb(153, 133, 154);
+  background-color: #B74E0C;
 }
 .container .col:nth-child(4) {
-  background: rgb(87, 162, 239);
+  background-color: #A8331F;
 }
 .container .col:nth-child(5) {
-  background: rgb(16, 203, 10);
+  background-color: #45F2FF;
 }
 .container .col:nth-child(6) {
-  background: rgb(118, 93, 155);
+  background-color: #A7436A;
 }
 .container .col:nth-child(7) {
-  background: rgb(21, 26, 176);
+  background-color: #3CA917;
 }
 .container .col:nth-child(8) {
-  background: rgb(23, 14, 72);
+  background-color: #EE33AD;
 }
 .container .col:nth-child(9) {
-  background: rgb(40, 250, 194);
+  background-color: #E312C6;
 }
 .container .col:nth-child(10) {
-  background: rgb(36, 17, 53);
+  background-color: #258C02;
 }
 .container .col:nth-child(11) {
-  background: rgb(238, 105, 37);
-}/*# sourceMappingURL=style.css.map */
+  background-color: #5CDD54;
+}
+.container .col:nth-child(12) {
+  background-color: #323FE4;
+}
+
+/*# sourceMappingURL=style.css.map */
